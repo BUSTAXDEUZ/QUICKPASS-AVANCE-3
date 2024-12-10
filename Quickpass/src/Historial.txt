@@ -1,0 +1,15 @@
+Acci贸n: Agregar, C贸digo: 1012345678, Placa: BSC138, Filial: Andres, Resultado: Aceptado, Fecha: Sun Nov 24 19:18:23 CST 2024
+Acci髇: Agregar, C骴igo: 1012345678, Placa: BSC138, Filial: Andres2, Resultado: Aceptado, Fecha: Sun Nov 24 19:37:09 CST 2024
+Acci髇: Agregar, C骴igo: 1011234567, Placa: BFG288, Filial: Filial 14, Resultado: Aceptado, Fecha: Sun Nov 24 19:54:40 CST 2024
+Acci髇: Agregar, C骴igo: 1012345678, Placa: BBB411, Filial: Filial 01, Resultado: Aceptado, Fecha: Sun Nov 24 19:55:33 CST 2024
+Acci贸n: Agregar, C贸digo: 1012345678, Placa: BBB000, Filial: Filial 10, Resultado: Aceptado, Fecha: Sun Nov 24 20:07:15 CST 2024
+Acci贸n: Agregar, C贸digo: 1014445591, Placa: DDD888, Filial: Filial 16, Resultado: Aceptado, Fecha: Sun Nov 24 20:09:05 CST 2024
+Acci贸n: Agregar, C贸digo: 1010455887, Placa: DFG100, Filial: Filial 02, Resultado: Aceptado, Fecha: Sun Nov 24 20:11:18 CST 2024
+Acci贸n: Agregar, C贸digo: 1011666699, Placa: BBB250, Filial: Filial 16, Resultado: Aceptado, Fecha: Sun Nov 24 20:23:05 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000001, Placa: BYR176, Filial: ANDY STACER, Resultado: Rechazado, Fecha: Mon Nov 25 19:06:35 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000001, Placa: BYR412, Filial: ANDY STACER, Resultado: Rechazado, Fecha: Mon Nov 25 19:06:54 CST 2024
+Acci贸n: Agregar, C贸digo: 1017777777, Placa: 631501, Filial: ANDY STAZER, Resultado: Aceptado, Fecha: Mon Nov 25 19:41:59 CST 2024
+Acci贸n: Cambiar Estado, C贸digo: 1017777777, Placa: , Filial: , Resultado: Rechazado, Fecha: Mon Nov 25 19:42:12 CST 2024
+Acci贸n: Agregar, C贸digo: 1017777777, Placa: 631501, Filial: ANDY STACER, Resultado: Aceptado, Fecha: Sun Dec 01 20:30:21 CST 2024
+Acci贸n: Agregar, C贸digo: 1011111111, Placa: 631501, Filial: Andy, Resultado: Aceptado, Fecha: Sun Dec 01 21:08:00 CST 2024
+Acci贸n: Agregar, C贸digo: 1011111110, Placa: 777777, Filial: natasha, Resultado: Aceptado, Fecha: Sun Dec 01 21:34:48 CST 2024

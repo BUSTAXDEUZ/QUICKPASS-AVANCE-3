@@ -1,0 +1,27 @@
+Acci贸n: Agregar, C贸digo: 1012345678, Placa: BSC138, Filial: Andres, Resultado: Aceptado, Fecha: Sun Nov 24 19:18:23 CST 2024
+Acci髇: Agregar, C骴igo: 1012345678, Placa: BSC138, Filial: Andres2, Resultado: Aceptado, Fecha: Sun Nov 24 19:37:09 CST 2024
+Acci髇: Agregar, C骴igo: 1011234567, Placa: BFG288, Filial: Filial 14, Resultado: Aceptado, Fecha: Sun Nov 24 19:54:40 CST 2024
+Acci髇: Agregar, C骴igo: 1012345678, Placa: BBB411, Filial: Filial 01, Resultado: Aceptado, Fecha: Sun Nov 24 19:55:33 CST 2024
+Acci贸n: Agregar, C贸digo: 1012345678, Placa: BBB000, Filial: Filial 10, Resultado: Aceptado, Fecha: Sun Nov 24 20:07:15 CST 2024
+Acci贸n: Agregar, C贸digo: 1014445591, Placa: DDD888, Filial: Filial 16, Resultado: Aceptado, Fecha: Sun Nov 24 20:09:05 CST 2024
+Acci贸n: Agregar, C贸digo: 1010455887, Placa: DFG100, Filial: Filial 02, Resultado: Aceptado, Fecha: Sun Nov 24 20:11:18 CST 2024
+Acci贸n: Agregar, C贸digo: 1011666699, Placa: BBB250, Filial: Filial 16, Resultado: Aceptado, Fecha: Sun Nov 24 20:23:05 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000001, Placa: BYR176, Filial: ANDY STACER, Resultado: Rechazado, Fecha: Mon Nov 25 19:06:35 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000001, Placa: BYR412, Filial: ANDY STACER, Resultado: Rechazado, Fecha: Mon Nov 25 19:06:54 CST 2024
+Acci贸n: Agregar, C贸digo: 1017777777, Placa: 631501, Filial: ANDY STAZER, Resultado: Aceptado, Fecha: Mon Nov 25 19:41:59 CST 2024
+Acci贸n: Cambiar Estado, C贸digo: 1017777777, Placa: , Filial: , Resultado: Rechazado, Fecha: Mon Nov 25 19:42:12 CST 2024
+Acci贸n: Agregar, C贸digo: 1017777777, Placa: 631501, Filial: ANDY STACER, Resultado: Aceptado, Fecha: Sun Dec 01 20:30:21 CST 2024
+Acci贸n: Agregar, C贸digo: 1011111111, Placa: 631501, Filial: Andy, Resultado: Aceptado, Fecha: Sun Dec 01 21:08:00 CST 2024
+Acci贸n: Agregar, C贸digo: 1011111110, Placa: 777777, Filial: natasha, Resultado: Aceptado, Fecha: Sun Dec 01 21:34:48 CST 2024
+Acci贸n: Agregar, C贸digo: , Placa: , Filial: Andres, , Resultado: Rechazado, Fecha: Sun Dec 01 21:50:23 CST 2024
+Acci贸n: Agregar, C贸digo: 1014444444, Placa: 888888, Filial: prueba, Resultado: Aceptado, Fecha: Sun Dec 01 21:52:16 CST 2024
+Acci贸n: Agregar, C贸digo: 1016666666, Placa: 656565, Filial: prue, Resultado: Aceptado, Fecha: Sun Dec 01 22:30:00 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000, Placa: 1, Filial: 1, Resultado: Aceptado, Fecha: Mon Dec 02 15:05:48 CST 2024
+Acci贸n: Cambiar Estado, C贸digo: 1010000000, Placa: , Filial: , Resultado: Rechazado, Fecha: Mon Dec 02 15:07:23 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000, Placa: 12, Filial: 12, Resultado: Aceptado, Fecha: Mon Dec 02 15:45:32 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000, Placa: 13, Filial: 13, Resultado: Aceptado, Fecha: Mon Dec 02 15:45:49 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000000, Placa: 1, Filial: 1, Resultado: Aceptado, Fecha: Mon Dec 02 15:48:17 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000002, Placa: 2, Filial: 2, Resultado: Aceptado, Fecha: Mon Dec 02 15:48:32 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000003, Placa: 3, Filial: 3, Resultado: Aceptado, Fecha: Mon Dec 02 15:48:47 CST 2024
+Acci贸n: Agregar, C贸digo: 1010000004, Placa: 4, Filial: 4, Resultado: Aceptado, Fecha: Mon Dec 02 15:49:06 CST 2024
+Acci贸n: Cambiar Estado, C贸digo: 1010000002, Placa: , Filial: , Resultado: Rechazado, Fecha: Mon Dec 02 15:52:52 CST 2024
